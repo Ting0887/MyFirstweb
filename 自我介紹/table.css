@@ -1,0 +1,48 @@
+/*視窗底色設定*/
+body{
+
+	background-image:url(img/Rfb123.jpg);
+	background-size:cover;
+}
+/*頁面標題設定*/
+h1{
+	color:#000;
+	text-align:center;
+	padding-top:20px;
+	font-size:300%;
+}
+/*內容標題設定*/
+h2{
+	color:#000;
+	text-align:center;
+    padding: 5px 20px;
+	font-size:150%;
+}
+
+/*連結顏色設定*/
+a{
+	color:#33FFFF;
+}
+
+a:hover{
+	color:#FF00FF;
+}
+
+
+
+
+
+/*表格設定*/
+ table{
+	 width:60%;
+	 border:#000 2px solid;
+	 text-align:center;
+	 border-collapse:collapse;
+ }
+ 
+ th,
+ td{
+	 padding:5px;
+	 border:#000 2px solid;
+	 text-align:center;
+ }
